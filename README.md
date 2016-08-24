@@ -8,6 +8,7 @@ Spring MVC, Maven, Hibernate, Tomcat 8, MySQL, angular.js
 Пароль:      root
 
 Скрипт для создания таблицы в БД  : \crud-master\src\resources\database\initDB.sql
+
 Скрипт для наполнения таблицы в БД: \crud-master\src\resources\database\populateDB.sql
 
 
